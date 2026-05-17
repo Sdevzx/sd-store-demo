@@ -27,9 +27,13 @@
 ## 🛠️ เทคโนโลยีที่ใช้พัฒนา (Tech Stack)
 
 * **Frontend & Fullstack Framework:** [Nuxt 3](https://nuxt.com/) (Vue 3 / Composition API)
+* ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B.svg?style=for-the-badge&logo=nuxt&logoColor=#00DC82)
 * **Styling:** [Tailwind CSS](https://tailwindcss.com/)
+* ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 * **Database ORM:** [Prisma](https://www.prisma.io/)
+* ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 * **Database:** PostgreSQL (Hosted on Zeabur)
+* ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
