@@ -20,7 +20,7 @@
 คุณสามารถทดลองเข้าสู่ระบบเพื่อทดสอบฟังก์ชันการทำงานภายในผ่านบัญชีด้านล่างนี้:
 
 > 💡 **User:** `demo`  
-> 🔒 **Password:** `demo@21`
+> 🔒 **Password:** `Demodemo@26`
 
 ---
 
@@ -37,11 +37,10 @@
 
 ---
 
-## 📦 การติดตั้งและรันโปรเจกต์ในเครื่องตัวเอง (Local Development)
+## 📦 การติดตั้งและรันโปรเจกต์ (Development & Setup)
 
-หากต้องการนำซอร์สโค้ดชุดนี้ไปศึกษาหรือรันบนเครื่องคอมพิวเตอร์ของคุณ ให้ทำตามขั้นตอนดังนี้:
+สำหรับผู้ที่สนใจศึกษาโครงสร้างระบบของเดโมนี้ หรือต้องการขอซื้อ **Source Code เวอร์ชันเต็ม (Full System)** สามารถติดต่อทีมงานได้โดยตรงที่:
 
-### 1. โคลนคลังเก็บโค้ด (Clone Repository)
-```bash
-git clone [https://github.com/YOUR_USERNAME/sd-store-demo.git](https://github.com/YOUR_USERNAME/sd-store-demo.git)
-cd sd-store-demo
+📩 **ติดต่อขอรับ Source Code ตัวเต็ม:** [sdevstudio@proton.me](mailto:sdevstudio@proton.me)
+
+---
